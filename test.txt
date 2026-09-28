@@ -1,0 +1,23 @@
+MATERI DASAR GIT & GITHUB
+
+1. Pengertian Git:
+ perangkat lunak sistem pengontrol versi terdistribusi 
+ yang dirancang untuk mencatat setiap perubahan pada kode sumber atau berkas 
+ proyek dari waktu ke waktu.
+
+2. Fungsi Utama Git:
+- Melacak Riwayat: Mencatat setiap perubahan kode dari waktu ke waktu.
+- Kolaborasi Tim: Memudahkan banyak orang bekerja pada proyek yang sama tanpa saling merusak file orang lain.
+- Fitur Cabang (Branching): Memungkinkan pembuatan fitur baru secara terisolasi tanpa mengganggu kode utama.
+- Pemulihan Data: Memudahkan pengembalian kode ke versi sebelumnya jika terjadi kesalahan atau error.
+
+3. Istilah Penting:
+- Commit: Menyimpan perubahan lokal.
+- Push: Mengirim kode ke GitHub.
+- Pull: Mengambil pembaruan dari GitHub.
+- Merge: Menggabungkan cabang (branch) kode.
+
+4. Perbedaan Git dengan Github:
+-Git: Alat atau mesin pengelola versi kode yang berjalan secara lokal di komputer Anda.
+-GitHub / GitLab: Platform berbasis web untuk menyimpan dan membagikan repositori Git secara online agar
+ bisa diakses oleh tim. Anda dapat mempelajari dokumentasi resminya di Situs Resmi Git
